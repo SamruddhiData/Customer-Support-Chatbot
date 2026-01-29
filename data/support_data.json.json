@@ -1,0 +1,209 @@
+[
+  {
+    "text": "Customer: Where is my order?\nSupport: You can track your order using the tracking link sent to your email."
+  },
+  {
+    "text": "Customer: How do I return a product?\nSupport: You can return the product within 30 days using our return portal."
+  },
+  {
+    "text": "Customer: What is your return policy?\nSupport: Refunds are processed within 5–6 business days after receiving the item."
+  },
+  {
+    "text": "Customer: Can I cancel my order?\nSupport: Orders can be cancelled within 2 hours of placing them."
+  },
+  {
+    "text": "Customer: Do you offer international shipping?\nSupport: We offer international shipping in selected countries."
+  },
+
+  {
+    "text": "Customer: How long does delivery take?\nSupport: Delivery usually takes 3 to 5 business days."
+  },
+  {
+    "text": "Customer: My order is delayed.\nSupport: We apologize for the delay. Please check your tracking details for updates."
+  },
+  {
+    "text": "Customer: Can I change my delivery address?\nSupport: Address changes are allowed before the order is shipped."
+  },
+  {
+    "text": "Customer: My order shows delivered but I did not receive it.\nSupport: Please contact our support team so we can investigate this issue."
+  },
+  {
+    "text": "Customer: I received a damaged product.\nSupport: Please request a replacement from your order details page."
+  },
+
+  {
+    "text": "Customer: I received the wrong item.\nSupport: We are sorry for the inconvenience. Please initiate a replacement request."
+  },
+  {
+    "text": "Customer: What payment methods do you accept?\nSupport: We accept credit cards, debit cards, UPI, and net banking."
+  },
+  {
+    "text": "Customer: My payment failed but money was deducted.\nSupport: The deducted amount will be refunded within 3 to 5 business days."
+  },
+  {
+    "text": "Customer: Is cash on delivery available?\nSupport: Cash on delivery is available for selected locations."
+  },
+  {
+    "text": "Customer: How do I apply a coupon code?\nSupport: You can apply the coupon code during checkout."
+  },
+
+  {
+    "text": "Customer: My coupon code is not working.\nSupport: Please check the coupon validity and applicable terms."
+  },
+  {
+    "text": "Customer: Do you offer discounts?\nSupport: We offer seasonal discounts and promotional offers."
+  },
+  {
+    "text": "Customer: How do I reset my password?\nSupport: Click on the 'Forgot Password' option on the login page."
+  },
+  {
+    "text": "Customer: I forgot my account password.\nSupport: Please use the password recovery option to reset it."
+  },
+  {
+    "text": "Customer: Can I delete my account?\nSupport: You can request account deletion by contacting customer support."
+  },
+
+  {
+    "text": "Customer: Is my personal data secure?\nSupport: Yes, we use secure systems to protect customer data."
+  },
+  {
+    "text": "Customer: Do you store my payment information?\nSupport: No, we do not store your payment details."
+  },
+  {
+    "text": "Customer: Can I place a bulk order?\nSupport: Please contact our sales team for bulk order inquiries."
+  },
+  {
+    "text": "Customer: Do you provide gift wrapping?\nSupport: Gift wrapping is available for selected products."
+  },
+  {
+    "text": "Customer: Can I add a gift message?\nSupport: Yes, you can add a gift message during checkout."
+  },
+
+  {
+    "text": "Customer: My order is stuck in processing.\nSupport: Orders are usually processed within 24 hours."
+  },
+  {
+    "text": "Customer: Why is my order pending?\nSupport: Orders may be pending due to payment verification."
+  },
+  {
+    "text": "Customer: Can I reorder a previous purchase?\nSupport: Yes, you can reorder items from your order history."
+  },
+  {
+    "text": "Customer: What if I miss my delivery?\nSupport: The courier will attempt delivery again."
+  },
+  {
+    "text": "Customer: Do you deliver on weekends?\nSupport: Weekend delivery depends on courier availability."
+  },
+
+  {
+    "text": "Customer: How do I update my profile details?\nSupport: You can update your profile from account settings."
+  },
+  {
+    "text": "Customer: Can I change my registered email address?\nSupport: Email updates can be done from account settings."
+  },
+  {
+    "text": "Customer: How can I contact customer support?\nSupport: You can contact us via chat, email, or phone support."
+  },
+  {
+    "text": "Customer: What are your support hours?\nSupport: Our support team is available 24/7."
+  },
+  {
+    "text": "Customer: Can I speak to a human agent?\nSupport: Yes, you can request a human agent during support hours."
+  },
+
+  {
+    "text": "Customer: Will I receive an invoice?\nSupport: Yes, invoices are available in the order details section."
+  },
+  {
+    "text": "Customer: Can I download my invoice?\nSupport: You can download invoices from your order history."
+  },
+  {
+    "text": "Customer: What happens if my refund is delayed?\nSupport: Please contact support if your refund exceeds the expected timeline."
+  },
+  {
+    "text": "Customer: Will I get a refund for cancelled orders?\nSupport: Yes, refunds are issued automatically for cancelled orders."
+  },
+  {
+    "text": "Customer: How do I check my refund status?\nSupport: You can check refund status from the order details page."
+  },
+     
+  { "text": "Customer: Can I change the payment method after placing an order?\nSupport: Payment method cannot be changed once the order is placed." },
+  { "text": "Customer: My order was auto-cancelled.\nSupport: Orders may be auto-cancelled if payment verification fails." },
+  { "text": "Customer: Why was my order cancelled?\nSupport: Orders are cancelled due to payment failure or stock unavailability." },
+  { "text": "Customer: Is there a delivery charge for express shipping?\nSupport: Express shipping charges vary based on location and will be shown at checkout." },
+  { "text": "Customer: Can I select a delivery time slot?\nSupport: Delivery time slots are available in selected locations." },
+
+  { "text": "Customer: I want to change the product size.\nSupport: Product changes are allowed before shipment." },
+  { "text": "Customer: Can I exchange a product?\nSupport: Exchanges are available for eligible products within 30 days." },
+  { "text": "Customer: How do I request an exchange?\nSupport: You can request an exchange from your order details page." },
+  { "text": "Customer: Is there a pickup service for returns?\nSupport: Yes, return pickup is available in most locations." },
+  { "text": "Customer: My return pickup failed.\nSupport: Please reschedule the pickup from your order page." },
+
+  { "text": "Customer: Do you offer same-day delivery?\nSupport: Same-day delivery is available in selected cities." },
+  { "text": "Customer: Can I track my return status?\nSupport: Return status can be tracked from your order history." },
+  { "text": "Customer: What happens after return pickup?\nSupport: Once received, the item will be inspected before refund processing." },
+  { "text": "Customer: Will I get store credit instead of refund?\nSupport: You can choose store credit if available during return request." },
+  { "text": "Customer: Can refunds be issued to a different account?\nSupport: Refunds are issued only to the original payment method." },
+
+  { "text": "Customer: My refund amount is incorrect.\nSupport: Please contact support so we can verify the refund details." },
+  { "text": "Customer: Do you notify before delivery?\nSupport: Yes, you will receive delivery notifications via SMS or email." },
+  { "text": "Customer: I want to update my phone number.\nSupport: Phone number can be updated from account settings." },
+  { "text": "Customer: Can I pause my delivery?\nSupport: Delivery pause option depends on courier availability." },
+  { "text": "Customer: My package is out for delivery but not delivered.\nSupport: Please wait till end of day or contact support if issue continues." },
+
+  { "text": "Customer: What if the item is out of stock after ordering?\nSupport: You will be notified and refunded if an item is unavailable." },
+  { "text": "Customer: Do you restock sold-out items?\nSupport: Popular items are restocked based on availability." },
+  { "text": "Customer: How do I subscribe for restock alerts?\nSupport: You can enable restock alerts on the product page." },
+  { "text": "Customer: Is there a warranty on products?\nSupport: Warranty availability depends on the product category." },
+  { "text": "Customer: How do I claim warranty?\nSupport: Warranty claims can be initiated through customer support." },
+
+  { "text": "Customer: Can I merge two orders?\nSupport: Orders cannot be merged once placed." },
+  { "text": "Customer: Can I split my order?\nSupport: Order splitting is not supported currently." },
+  { "text": "Customer: Why did I receive multiple packages?\nSupport: Items may be shipped separately for faster delivery." },
+  { "text": "Customer: Do you ship from multiple warehouses?\nSupport: Yes, orders may be fulfilled from different warehouses." },
+  { "text": "Customer: How do I report a missing item?\nSupport: Please contact support with your order details." },
+
+  { "text": "Customer: My delivery location is not serviceable.\nSupport: We apologize, delivery availability depends on courier coverage." },
+  { "text": "Customer: Do you support green packaging?\nSupport: We use eco-friendly packaging where possible." },
+  { "text": "Customer: Can I leave delivery instructions?\nSupport: You can add delivery instructions during checkout." },
+  { "text": "Customer: I want to rate my delivery experience.\nSupport: You can rate your experience after order completion." },
+  { "text": "Customer: How do I give product feedback?\nSupport: Product reviews can be submitted from order history." }
+  ,
+  { "text": "Customer: Can I reorder a cancelled order?\nSupport: Cancelled orders can be reordered from order history." },
+  { "text": "Customer: Do you provide installation services?\nSupport: Installation services are available for selected products." },
+  { "text": "Customer: How do I book installation?\nSupport: Installation can be booked during checkout or later from orders." },
+  { "text": "Customer: What if installation is delayed?\nSupport: Please contact support if installation is delayed." },
+  { "text": "Customer: Are accessories included with the product?\nSupport: Included accessories are mentioned on the product page." },
+
+  { "text": "Customer: Can I request contactless delivery?\nSupport: Contactless delivery is available in supported locations." },
+  { "text": "Customer: Do you verify products before shipping?\nSupport: Yes, products undergo quality checks before shipment." },
+  { "text": "Customer: Can I add items to my order after placing it?\nSupport: Items cannot be added once the order is placed." },
+  { "text": "Customer: My order status is not updating.\nSupport: Status updates may take some time to reflect." },
+  { "text": "Customer: What if my package is lost?\nSupport: Please contact support and we will investigate immediately." },
+
+  { "text": "Customer: How do I escalate an issue?\nSupport: You can request escalation by contacting customer support." },
+  { "text": "Customer: Do you have a loyalty program?\nSupport: Yes, loyalty rewards are available for eligible customers." },
+  { "text": "Customer: How do loyalty points work?\nSupport: Loyalty points are earned on purchases and can be redeemed later." },
+  { "text": "Customer: Can loyalty points expire?\nSupport: Loyalty points may expire as per program terms." },
+  { "text": "Customer: How do I check my loyalty balance?\nSupport: Loyalty balance is visible in your account section." },
+
+  { "text": "Customer: Can I use multiple coupons?\nSupport: Only one coupon can be applied per order." },
+  { "text": "Customer: Do coupons expire?\nSupport: Coupon expiry details are mentioned in the offer terms." },
+  { "text": "Customer: Why was my coupon removed?\nSupport: Coupons may be removed if order conditions change." },
+  { "text": "Customer: Is GST included in prices?\nSupport: GST details are included in the invoice." },
+  { "text": "Customer: Can I get a GST invoice?\nSupport: GST invoices can be downloaded from order history." },
+
+  { "text": "Customer: Can I place an order without an account?\nSupport: Guest checkout is available for selected users." },
+  { "text": "Customer: How do I convert guest order to account order?\nSupport: You can link your order after account creation." },
+  { "text": "Customer: Can I save multiple addresses?\nSupport: Yes, multiple addresses can be saved in your account." },
+  { "text": "Customer: Which address will be used for refund pickup?\nSupport: Refund pickup uses the delivery address by default." },
+  { "text": "Customer: How do I report suspicious activity?\nSupport: Please contact support immediately for security concerns." },
+
+  { "text": "Customer: Do you record customer calls?\nSupport: Calls may be recorded for quality and training purposes." },
+  { "text": "Customer: Can I opt out of promotional emails?\nSupport: You can manage communication preferences in account settings." },
+  { "text": "Customer: How do I unsubscribe from notifications?\nSupport: Notification preferences can be updated in settings." },
+  { "text": "Customer: Do you support accessibility features?\nSupport: We are working to improve accessibility across platforms." },
+  { "text": "Customer: How do I close a support ticket?\nSupport: Tickets are closed automatically once the issue is resolved." }
+
+
+]
